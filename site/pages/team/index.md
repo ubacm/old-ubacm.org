@@ -19,7 +19,7 @@ contents_class: page__team
          <div class="flip-card-front">
               ![Avatar](/assets/team/peter.jpg)
               <div class="description">
-                  <h5> Peter Gottesman </h5>
+                  <h5> Hannah Kloss </h5>
                   <h6> *President* </h6>
               </div>
          </div>
