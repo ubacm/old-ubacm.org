@@ -5,7 +5,7 @@ title: Check-ins
 
 # Check-Ins
 
-UB ACM requires everyone who attends our events to check in. As a University at Buffalo student organization, we are required to collect the _UBIT ID_ of students who attend our events. For our club members' convenience, we developed a sophisticated check-in system that allows members to effortlessly check in to our events.
+UB ACM requires everyone who attends our events to check in. As a University at Buffalo student organization, we are required to collect the _UBIT ID_ of students who attend our events. The best way to collect this, according to the University, would be through the UBLinked Event Pass.
 
 <!-- <a class="waves-effect waves-teal btn" href="/checkins/raffle">Raffle</a> -->
 
@@ -26,31 +26,21 @@ You need to check in in order to be included in the official club membership cou
 
 ## How can I check in?
 <div class="row">
-  <div class="col m4">
-    <h3>Step 1</h3>
-    <p>Visit any channel on our Slack workspace. If you can't pick one, _#general_ is a good pick.</p>
-  </div>
+    <h3> Step 1 </h3>
+    <p>Have access to you UB Linked QR code. The best way to go about with this would be to download your Event Pass from the UB Linked website and store it in your wallet. Here is the detailed instruction on how to access your Event Pass.</p>
   <div class="col m8">
-    <img src="/assets/checkins/step1.png" />
+    <img src="/assets/checkins/UBlinked1.png" />
+    <img src="/assets/checkins/UBlinked2.png" />
+    <img src="/assets/checkins/UBlinked3.png" />
+    <img src="/assets/checkins/UBlinked4.png" />
   </div>
 </div>
 <br />
 <div class="row">
-  <div class="col m4">
     <h3>Step 2</h3>
-    <p>Type in the <em>command</em> <pre>/checkin</pre> followed by the event code provided at the event.</p>
-  </div>
-  <div class="col m8">
-    <img src="/assets/checkins/step2.png" />
-  </div>
+    <p>Show this event pass to one of member from the leadership team.</p>
 </div>
 <br />
 <div class="row">
-  <div class="col m4">
-    <h3>Step 3</h3>
-    <p>Send the command and you should see a success message if you entered it correctly. If otherwise, double check the event code with someone!</p>
-  </div>
-  <div class="col m8">
-    <img src="/assets/checkins/step3.png" />
-  </div>
+    <p> And that's it! You're officially checked-in! In the case where you don't have access to your Event Pass, just provide us with your name, and we'll check you in!</p>
 </div>
