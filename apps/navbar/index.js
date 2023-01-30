@@ -106,12 +106,12 @@ const Navbar = () => {
         </li>
         <li>
           <a className="waves-effect" href="/about">
-            About UB ACM
+            About
           </a>
         </li>
         <li>
           <a className="waves-effect" href="/team">
-            Leadership Team
+            E-Board
           </a>
         </li>
         <li>
@@ -133,14 +133,14 @@ const Navbar = () => {
         <li>
           <a
             className="waves-effect"
-            href="https://ubacm.slack.com/signup"
+            href="https://discord.gg/ZXcG9tKPcJ"
             target="_blank"
           >
             <i className="fas fa-external-link-alt"/>
-            Slack
+            Discord
           </a>
         </li>
-        <li>
+        {/* <li>
           <a
             className="waves-effect"
             href="https://www.facebook.com/ubacm.org"
@@ -149,7 +149,7 @@ const Navbar = () => {
             <i className="fas fa-external-link-alt"/>
             Facebook
           </a>
-        </li>
+        </li> */}
         <li>
           <a
             className="waves-effect"

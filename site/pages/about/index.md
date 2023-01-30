@@ -14,9 +14,15 @@ All of our weekly meetings, events, and hackathons are optional, so pick and cho
 
 <div class="row">
   <div class="col m8">
-    <h3>Workshops</h3>
-    <p>Our workshops are informative introductory workshops ran mostly by upperclassmen with expertise in the topics. We host workshops that cover a wide range of technologies used by professionals in industry or academia. We've covered Python, JavaScript, Docker, web development, and much more.</p>
-  </div>
+   <h3>Workshops</h3>
+      <p>We have tons of introductory workshops that are mostly run by upperclassmen with expertise in the topics. Our workshops cover a wide range of technologies used by professionals in industry or academia. Some of topics that we've covered include:</p>
+      <ul>
+      <li>Introductory Python</li>
+      <li>Docker</li>
+      <li>Web Development</li>
+      <li>Resume Reviews</li>
+      </ul>
+    </div>
   <div class="col m4">
     <img src="/assets/about/workshop.jpg" />
   </div>
@@ -24,9 +30,9 @@ All of our weekly meetings, events, and hackathons are optional, so pick and cho
 <br />
 <div class="row">
   <div class="col m8">
-    <h3>Tech Talks</h3>
-    <p>We bring university professors and industry speakers to our school and present interesting technologies. We've hosted professional speakers from local and major tech companies like Cisco, Thimble, and Microsoft to present our our school.</p>
-  </div>
+      <h3>Tech Talks</h3>
+      <p>These are in-depth talks that are usually presented by university professors and industry speakers from companies like Cisco, Microsoft, Stripe. In addition to learning about the tools that these professionals use in their everyday life, these events are also a great opportunity for you to connect with them and learn more about their work!</p>
+    </div>
   <div class="col m4">
     <img src="/assets/about/techtalk.jpg" />
   </div>
@@ -45,8 +51,8 @@ All of our weekly meetings, events, and hackathons are optional, so pick and cho
 <div class="row">
   <div class="col m8">
     <h3>Social Events</h3>
-    <p>We organize our own social events like board game nights, bowling night, and barbecue socials to let students network. We also help companies like Bloomberg organize for company-sponosred social events with students.</a></p>
-  </div>
+      <p>In addition to all the tech events, there are a huge number of social events like board game nights, bowling night, and barbecue socials to let students de-stress and network. We also help companies like Bloomberg organize for company-sponosred social events with students.</a></p>
+    </div>
   <div class="col m4">
     <img src="/assets/about/bowling.jpg" />
     <br />
@@ -58,14 +64,15 @@ All of our weekly meetings, events, and hackathons are optional, so pick and cho
 ## Our Community
 <div class="row">
   <div class="col m8">
-    <h3>Slack</h3>
-    <p>We moved away from newsletters to Slack to encourage more communication and discussion between students outside of our events. Our Slack workspace has registered over 600 verified (current and past) University at Buffalo students.</p>
-    <h3>Away Hackathons</h3>
-    <p>In addition to <a href="https://ubhacking.com">UB Hacking</a> and <a href="/hack">Hack Nights</a>, our club also organizes members to attend hackathons together near our school. Attending hackathons are a a great way for students to learn new technologies and show some pride for our school.<br />
-    <br />
-    For the first time in the 2018 season, we placed University at Buffalo on the <a href="https://mlh.io/standings/na-2018">MLH rank standings</a>!
-</a></p>
-  </div>
+     <h3>Discord</h3>
+      <p>We moved away from newsletters and Slack to Discord to encourage more communication and discussion between students outside of our events. Our Discord server has registered over 400 verified (current and past) University at Buffalo students.</p>
+    
+<h3>Away Hackathons</h3>
+      <p>In addition to <a href="https://ubhacking.com">UB Hacking</a> and <a href="/hack">Hack Nights</a>, our club also organizes members to attend hackathons together near our school. Attending hackathons are a great way for students to learn new technologies and show some pride for our school.<br />
+      <br />
+      For the first time in the 2018 season, we placed University at Buffalo on the <a href="https://mlh.io/standings/na-2018">MLH rank standings</a>!
+  </a></p>
+    </div>
   <div class="col m4">
     <img src="/assets/about/tabling.jpg" />
   </div>
