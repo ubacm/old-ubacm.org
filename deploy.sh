@@ -26,7 +26,7 @@ if ! yarn build; then
 	echo "Failed to build deployment, exiting."
 fi
 
-#  cd $DEPLOY_DIR
+ cd $DEPLOY_DIR
 
 echo "Initializing git in build directory.."
 git init . -b master

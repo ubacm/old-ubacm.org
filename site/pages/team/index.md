@@ -37,7 +37,7 @@ contents_class: page__team
          <div class="flip-card-front">
               ![Avatar](/assets/team/vedant.png)
               <div class="description">
-                  <h5> Vedant /Vey-dahnt/</h5>
+                  <h5> Vedant Ombase</h5>
                   <h6> *Vice President* </h6>
               </div>
          </div>
