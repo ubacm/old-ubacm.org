@@ -6,7 +6,6 @@ REMOTE=$(git remote get-url origin)
 
 DEPLOY_BRANCH="master"
 DEPLOY_DIR="dist"
-DEPLOY_DIR2="apps"
 
 echo "Checking for yarn..."
 if ! command -v yarn; then
@@ -37,4 +36,3 @@ echo "Deploying..."
 git add .
 git commit -m "Deployment to ubacm.org"
 git push --force origin master
-
