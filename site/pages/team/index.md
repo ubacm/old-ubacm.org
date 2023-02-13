@@ -24,7 +24,7 @@ contents_class: page__team
               </div>
          </div>
          <div class="flip-card-back">
-              <h6> Computer Engineering B.S.,Cybersecurity Minor, Mathematics-Economics and Political Science B.A.  '23</h6>
+              <h6> Computer Engineering B.S., Cybersecurity Minor, Mathematics-Economics and Political Science B.A.  '23</h6>
               <h6> He / Him</h6>
               <h6> * "I've been involved with ACM for a few years and have an interest in inter-disciplinary problem solving, policy questions, and how to address computer and system security in the modern day" * </h6>
          </div>
@@ -42,9 +42,9 @@ contents_class: page__team
               </div>
          </div>
          <div class="flip-card-back">
-              <h6> Computer Science B.S. , Statistics Minor '24 </h6>
+              <h6> Computer Science B.S., Statistics Minor '24 </h6>
               <h6> He / Him </h6>
-              <h6> *" When I’m not jamming out to alternative/post-punk revival rock , I like to play the guitar and work out. I also like competitive programming and I plan to explore that through the club so stay tuned!"* </h6>
+              <h6> *"I love jamming out to alternative rock and working out. I'm also trying to get some competitive programming on the agenda so stay tuned!"* </h6>
          </div>
      </div>
   </div>
