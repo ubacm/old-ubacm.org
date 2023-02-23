@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "variables.css",
+	"sources": [
+		"variables.scss"
+	],
+	"sourcesContent": [
+		"$accent-color: #005bbb;\n$secondary-color: #00a69c;\n$terniary-color: #e56a54;\n$white-color: #fff;\n$black-color: #000;\n$grey-color: #666;\n$muted-color: #e4e4e4;\n$dark-accent-color: #002f56;\n\n$hack-night-color: #ca2451;\n\n$spacing: 20px;\n$interactive-size: 44px;\n$rounded-corner: 6px;\n\n$nav-height: 50px;"
+	],
+	"names": [],
+	"mappings": ""
+}
