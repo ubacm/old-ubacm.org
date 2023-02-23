@@ -31,7 +31,6 @@ contents_class: page__team
      </div>
   </div>
 
-
   <div class="flip-card">
      <div class="flip-card-inner">
          <div class="flip-card-front">
@@ -66,6 +65,7 @@ contents_class: page__team
               <h6 href="mailto:nitinpai@buffalo.edu"> nitinpai@buffalo.edu </h6>
          </div>
      </div>
+
   </div>
 
   <div class="flip-card">
@@ -120,6 +120,7 @@ contents_class: page__team
               <h6 href="mailto:gullerya@buffalo.edu"> gullerya@buffalo.edu </h6>
          </div>
      </div>
+
   </div>
       <div class="flip-card">
         <div class="flip-card-inner">
@@ -133,7 +134,7 @@ contents_class: page__team
          <div class="flip-card-back">
               <h6> Computer Science B.S. '25 </h6>
               <h6> He / Him </h6>
-              <h6>"*I'm the most dedicated Swiftie and love learning about emerging AI technologies that will change society in evolutionary ways.*"</h6>
+              <h6>Our most important e-board member. Revolutionizing the technology industry. Absolute genius. Rumored to be Jesus reincarnated.</h6>
               <h6 href="mailto:eszczesn@buffalo.edu"> eszczesn@buffalo.edu </h6>
          </div>
      </div>
@@ -156,6 +157,5 @@ contents_class: page__team
          </div>
      </div>
   </div>
-
 
   </div>
