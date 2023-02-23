@@ -4,7 +4,7 @@ set -e
 
 REMOTE=$(git remote get-url origin)
 
-DEPLOY_BRANCH="swati-deploy"
+DEPLOY_BRANCH="gh-pages"
 DEPLOY_DIR="dist"
 
 echo "Checking for yarn..."
@@ -28,11 +28,11 @@ fi
  cd $DEPLOY_DIR
 
 echo "Initializing git in build directory.."
-git init . -b swati-deploy
+git init . -b gh-pages
 git remote add origin $REMOTE
 git fetch origin $DEPLOY_BRANCH
 
 echo "Deploying..."
 git add .
 git commit -m "Deployment to ubacm.org"
-git push --force origin swati-deploy
+git push --force origin gh-pages
